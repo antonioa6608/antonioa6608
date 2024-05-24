@@ -7,7 +7,7 @@ Here are some ideas to get you started:-->
 -⚡ Experience 
 + Capstone Project AutoBookr: a mechanic scheudling appliation that connects customer and mechanic faciliating the booking process much easier ( built with flask, javascript , python, sqlite3 )
 
-- 🌱 Interests
-- Building products 
+-🌱 Interests
++ Building products 
   
 
