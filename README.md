@@ -1,6 +1,5 @@
 ## Hi there 👋
-My name is Alex and I am a computer science student 
-Happy to connect 
+My name is Alex and I am a computer science student. Happy to connect 
 <!--
 **antonioa6608/antonioa6608** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
