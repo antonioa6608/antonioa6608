@@ -5,7 +5,7 @@ My name is Alex and here is some tech info about me
 
 Here are some ideas to get you started:-->
 -⚡ Experience 
-+ Capstone Project AutoBookr: a mechanic scheudling appliation that connects customer and mechanic faciliating the booking process much easier ( built with flask, javascript , python, sqlite3 )
++ Capstone Project AutoBookr: a mechanic scheudling appliation that connects customer and mechanic faciliating the booking process much easier ( built with flask, javascript , python, sqlite3 ) https://github.com/antonioa6608/C-ORG 
 
 -🌱 Interests
 + Building products 
