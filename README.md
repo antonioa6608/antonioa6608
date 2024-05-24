@@ -4,9 +4,10 @@
 **antonioa6608/antonioa6608** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:-->
+-⚡ Experience 
++ Capstone Project AutoBookr: a mechanic scheudling appliation that connects customer and mechanic faciliating the booking process much easier ( built with flask, javascript , python, sqlite3 )
 
-
-- 🌱 I’m currently learning javascript, python , java
-- 👯 I’m looking to collaborate on open source 
-- ⚡ Fun fact: I started programming in 2022 
+- 🌱 Interests
+- Building products 
   
+
