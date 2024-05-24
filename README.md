@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+My name is Alex and here is some tech info about me 
 <!--
 **antonioa6608/antonioa6608** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
