@@ -8,6 +8,8 @@ Here are some ideas to get you started:-->
 + Capstone Project AutoBookr: a mechanic scheudling appliation that connects customer and mechanic faciliating the booking process much easier ( built with flask, javascript , python, sqlite3,google maps api  ) https://github.com/antonioa6608/C-ORG 
 
 -🌱 Interests
-+ Building products 
++ Building products
++ Skydiving
++ Traveling
   
 
